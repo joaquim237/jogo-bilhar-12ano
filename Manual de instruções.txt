@@ -1,0 +1,158 @@
+🎱 Manual de Instruções – Elite 8 Ball Pool - Physics Pro 
+
+1. Como iniciar o jogo 
+
+Clica em “JOGAR AGORA” para começar 
+
+Se quiser sair do jogo clique em “Sair”. 
+
+ 
+
+ 2. Objetivo do jogo 
+
+Cada jogador deve acertar em: 
+
+bolas lisas (sólidas) ou 
+
+bolas listradas 
+
+No final, deve encaçapar a bola preta (8) para vencer 
+
+ 
+
+ 3. Interface do jogo 
+
+ Barra superior 
+
+Turno atual → mostra qual jogador joga 
+
+Grupo → bolas atribuídas (lisas/listradas) 
+
+Velocidades: 
+
+Taco (branca) → velocidade inicial 
+
+Impacto (alvo) → velocidade após colisão 
+
+Restituição (e): 
+
+Controla o quão “elásticas” são as colisões 
+
+ 
+
+ 4. Como jogar 
+
+ Dar uma tacada 
+
+Clica na bola branca 
+
+Arrasta o rato para trás (define direção e força) 
+
+Larga o botão para tacar 
+
+- Quanto mais arrastares, maior a força 
+
+ 
+
+ Durante a jogada 
+
+As bolas movem-se com: 
+
+colisões físicas reais 
+
+O turno só termina quando todas as bolas param 
+
+ 5. Regras principais 
+
+ Jogada válida 
+
+Acertar primeiro numa bola do teu grupo ( sólidas ou lisas) 
+
+ Falta quando: 
+
+Não acertas em nenhuma bola 
+
+Acertas primeiro numa bola errada 
+
+Encaçapas a bola branca 
+
+ Resultado: “bola na mão” 
+
+ 
+
+ 6. Bola na mão 
+
+Podes mover a bola branca com o teclado: 
+
+⬆️ ⬇️ ⬅️ ➡️ → mover 
+
+ENTER → confirmar posição 
+
+ 
+
+ 7. Condições de vitória 
+
+ Ganhas se: 
+
+Encaçapares todas as tuas bolas 
+
+Depois encaçapares a bola 8 
+
+ Perdes se: 
+
+Encaçapares a bola 8 antes do tempo 
+
+Encaçapares a bola 8 numa falta 
+
+ 
+
+ 8. Funcionalidades especiais 
+
+ Ajuste de massas 
+
+Abre o MENU MASSAS 
+
+Podes alterar a massa de cada bola 
+👉 Afeta diretamente a física do jogo 
+
+ 
+
+ Coeficiente de restituição (e) 
+
+Varia entre 0 e 1 
+
+1 → colisões mais realistas (sem perda de energia) -  colisão elástica 
+
+0 → bolas perdem energia ao colidir, seguem literalmente juntas- colisão perfeitamente inelástica 
+
+ 
+
+ Botões úteis 
+
+REINICIAR → reinicia o jogo 
+
+MENU → volta ao ecrã inicial 
+
+ 
+
+ 9. Física do jogo (resumo) 
+
+O jogo simula: 
+
+Colisões elásticas entre bolas 
+
+Reflexão nas paredes 
+
+Transferência de velocidade entre bolas 
+
+ 
+
+ Dicas 
+
+Usa pouca força para mais precisão 
+
+Planeia a trajetória antes de jogar 
+
+Aproveita a física para fazer tabelas 
+
+ 
